@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Author: Teron
 ## Title: Ace 1.3.1
+## Version: v1.0.0
 ## Notes: AddOn development and management toolkit.
 ## OptionalDeps: myAddOns
 ## SavedVariables: AceDB
